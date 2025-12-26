@@ -1,8 +1,4 @@
-Based on **past papers (May/Dec 2023–2025)**, here’s a **single block prediction** of the **types of questions likely to appear in Block 1 or Block 2** for **Computer Forensics (9 Marks each)**. I’ve grouped them logically so you can **cover the entire syllabus efficiently**.
 
----
-
-# **Predicted Question Types – Single Block (Dec 2025)**
 
 ## **Block 1 – Services, Steps & Applications**
 
@@ -254,9 +250,9 @@ Do you want me to do that?
 
 
 
-Perfect! I’ve prepared a **one-page, exam-ready full revision sheet** for Computer Forensics. It includes **all headings, points, diagrams, and memory tricks**, so you can use it for **any 9-mark question** in Block 1 or 2.
+<br><br>
 
----
+
 
 # **💻 Computer Forensics – One-Page Full Revision Sheet (Dec 2025)**
 
@@ -425,6 +421,60 @@ This **one-page sheet** covers all possible 9-mark questions in **Block 1 & 2**.
 
 ---
 
-If you want, I can also **make a super compact “ultimate exam answer sheet”** where **each heading has a ready-to-copy 9-mark answer in 6–8 lines**, so you can literally **write straight into the answer sheet during exam** without thinking.
 
-Do you want me to do that?
+
+
+
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+
+
+
+
+# **💻 Computer Forensics Concept Diagram**
+
+```
+                      COMPUTER FORENSICS
+                              │
+        ┌─────────────────────┼─────────────────────┐
+        │                     │                     │
+   SERVICES                  STEPS               APPLICATIONS
+        │                     │                     │
+ ┌──────┼──────┐       ┌──────┼──────┐     ┌────────┼─────────┐
+Disk  Network  Email   Identification Preservation  Business  Military  Law
+Malware Mobile Database  Collection   Examination          Enforcement
+RAM   Cloud Multimedia   Analysis    Documentation
+                             │
+                             ▼
+                     TECHNOLOGIES / TECHNIQUES
+                        (Disk, Network, Email, Malware,
+                         Mobile, Cloud, Database, RAM)
+                             │
+                             ▼
+                     DATA BACKUP & RECOVERY
+                   (Forensic imaging, Cloud/Offsite,
+                    Version control, Write blockers)
+                             │
+                             ▼
+                     DIGITAL EVIDENCE
+       (Hard disks, Emails, Logs, Network, Mobile, Cloud,
+                Multimedia, Databases)
+```
+
+---
+
+### **How to Use This Diagram**
+
+1. **Top Level:** Computer Forensics = main topic
+2. **Second Level:** Services, Steps, Applications → core areas to focus
+3. **Third Level:** Sub-points → details you can write in 6–8 lines
+4. **Flow to Technologies, Backup, Evidence:** Shows **how everything connects** in real investigations
+
+**Memory Tip:**
+
+* Start at **Services → Steps → Applications → Technologies → Backup → Evidence**
+* Recite a quick story:
+  *“Experts provide Services, follow Steps, apply in Business/Military/Law, use Technologies, Backup data, and collect Evidence.”*
+
