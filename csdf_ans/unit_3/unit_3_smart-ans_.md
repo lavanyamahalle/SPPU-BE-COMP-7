@@ -429,6 +429,29 @@ Sure! Here’s a **detailed 9-mark answer** for **Data Backup & Recovery**, with
 
 ---
 
+### **9-Word Memory Sentence:**
+
+**“Preserve, Recover, Restore, Legal, Continuous, Protect, Prevent, Reconstruct, Confidence.”**
+
+---
+
+### **How to Recall Points from This Sentence:**
+
+1. **Preserve** → Preserves the original integrity of digital evidence
+2. **Recover** → Allows recovery of deleted or lost files
+3. **Restore** → Ensures corrupted data can be restored
+4. **Legal** → Maintains legal admissibility for courts
+5. **Continuous** → Supports continuous business and investigation operations
+6. **Protect** → Protects against ransomware and malware attacks
+7. **Prevent** → Prevents accidental data loss during forensic analysis
+8. **Reconstruct** → Helps in reconstructing crime timelines
+9. **Confidence** → Ensures confidence in forensic results and reporting
+
+---
+
+<br><br>
+
+
 ## **2️⃣ Strategies for Data Backup & Recovery**
 
 1. Perform **regular scheduled backups** (daily, weekly).
