@@ -489,19 +489,93 @@ Sure! Here’s a **detailed 9-mark answer** for **Data Backup & Recovery**, with
 
 ---
 
-## **6️⃣ Digital Evidence Collected**
+<br><br>
 
-* Hard disks, SSDs, USBs
-* Emails, chat logs, social media
-* Deleted/hidden files
-* System/application logs
-* Network traffic
-* Mobile device data
-* Cloud storage & virtual machines
-* Multimedia files (images, audio, video)
-* Database transaction logs
+## **6️⃣ Digital Evidence Collected (9 Marks)**
+
+**Concept:**
+Digital evidence refers to **any data stored, transmitted, or processed in digital form** that can be used to support an investigation. Computer forensics collects evidence from multiple digital sources to **reconstruct events, identify suspects, and prove actions legally**.
 
 ---
+
+### **Types of Digital Evidence Collected**
+
+1. **Hard disks, SSDs, USBs**
+
+   * Store operating systems, user files, applications, and deleted data.
+   * Primary source for forensic imaging and analysis.
+
+2. **Emails, chat logs, social media**
+
+   * Provide communication evidence such as fraud, harassment, phishing, or conspiracy.
+   * Headers reveal sender IP, routing path, and timestamps.
+
+3. **Deleted / hidden files**
+
+   * Files intentionally removed or concealed by suspects.
+   * Can be recovered using forensic tools and file carving techniques.
+
+4. **System and application logs**
+
+   * Record user logins, system activity, errors, and access attempts.
+   * Help reconstruct timelines and detect unauthorized actions.
+
+5. **Network traffic**
+
+   * Captured packets reveal data transfers, intrusions, malware communication, and attacks.
+   * Useful in hacking and cyber-attack investigations.
+
+6. **Mobile device data**
+
+   * Includes call logs, SMS, contacts, app data, GPS location, and photos.
+   * Critical in personal crimes and communication-based cases.
+
+7. **Cloud storage & virtual machines**
+
+   * Emails, documents, backups stored on cloud platforms.
+   * Requires legal access and cloud forensic techniques.
+
+8. **Multimedia files (images, audio, video)**
+
+   * Used in cybercrime, identity fraud, harassment, and surveillance.
+   * Metadata reveals time, device, and location details.
+
+9. **Database transaction logs**
+
+   * Record changes made to databases.
+   * Essential in financial fraud and business investigations.
+
+---
+
+### **Conclusion (Optional Line for Extra Marks):**
+
+Digital evidence helps investigators **prove actions, reconstruct events, and ensure legal accountability** across business, military, and law enforcement cases.
+
+---
+
+## **🧠 9-Word Memory Trick (Exact-Keyword Style)**
+
+**“Storage, Emails, Deleted, Logs, Network, Mobile, Cloud, Multimedia, Database.”**
+
+---
+
+### **How to Expand in Exam**
+
+* **Storage** → Hard disks, SSDs, USBs
+* **Emails** → Emails, chats, social media
+* **Deleted** → Deleted/hidden files
+* **Logs** → System/application logs
+* **Network** → Network traffic
+* **Mobile** → Mobile device data
+* **Cloud** → Cloud storage & VMs
+* **Multimedia** → Images, audio, video
+* **Database** → Database transaction logs
+
+---
+
+### ✅ Exam Tip
+
+
 
 ### **💡 Quick Memory Tips / Tricks**
 
