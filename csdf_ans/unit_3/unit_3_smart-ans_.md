@@ -356,7 +356,6 @@ Identification → Preservation → Collection → Examination
 **Memory Trick:** **“Detect → Protect → Monitor → Respond → Comply → Gather → Reconstruct → Prevent → Secure”**
 
 
-Do you want me to do that?
 
 ## **4️⃣ Technologies / Techniques**
 
