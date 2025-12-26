@@ -407,6 +407,63 @@ Identification → Preservation → Collection → Examination
 Original Device → Forensic Imaging → Backup Storage → Analysis & Recovery → Reporting
 ```
 
+Sure! Here’s a **detailed 9-mark answer** for **Data Backup & Recovery**, with **exactly 9 points under each subheading** so it’s exam-ready.
+
+---
+
+# **Data Backup & Recovery in Computer Forensics**
+
+---
+
+## **1️⃣ Importance of Data Backup & Recovery**
+
+1. Preserves the **original integrity of digital evidence**.
+2. Allows **recovery of deleted or lost files**.
+3. Ensures **corrupted data can be restored**.
+4. Maintains **legal admissibility** for courts.
+5. Supports **continuous business and investigation operations**.
+6. Protects against **ransomware and malware attacks**.
+7. Prevents **accidental data loss during forensic analysis**.
+8. Helps in **reconstructing crime timelines** from recovered data.
+9. Ensures **confidence in forensic results and reporting**.
+
+---
+
+## **2️⃣ Strategies for Data Backup & Recovery**
+
+1. Perform **regular scheduled backups** (daily, weekly).
+2. Create **bit-by-bit forensic images** of storage devices.
+3. Use **offsite or cloud backups** for redundancy.
+4. Maintain **version control** to track changes over time.
+5. Keep **multiple backup copies** to prevent single-point failure.
+6. Implement **secure storage** with encryption and access control.
+7. Test backups periodically to ensure **recoverability**.
+8. Use **write blockers** during backup to prevent data alteration.
+9. Document all backup steps for **audit and legal purposes**.
+
+---
+
+## **3️⃣ Solutions / Key Components**
+
+1. **Forensic acquisition tools** (EnCase, FTK, Autopsy) for imaging.
+2. **Write blockers** to prevent modification of original data.
+3. **Data recovery software** to restore deleted or corrupted files.
+4. **Hashing tools** (MD5, SHA-1, SHA-256) for integrity verification.
+5. **Secure backup storage** (physical drives, encrypted servers, cloud).
+6. **Documentation and reporting** of backup and recovery steps.
+7. **Skilled forensic professionals** to manage the process.
+8. **Versioning and multiple copies** for redundancy.
+9. **Periodic testing of backups** to ensure reliability.
+
+---
+
+### ✅ Memory Trick
+
+**“Preserve → Recover → Legal → Continuous → Protect → Tools → Verify → Store → Document”**
+
+* Works for **Importance, Strategies, and Solutions** simultaneously.
+
+
 ---
 
 ## **6️⃣ Digital Evidence Collected**
